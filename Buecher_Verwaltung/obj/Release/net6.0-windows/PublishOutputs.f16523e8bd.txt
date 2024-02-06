@@ -1,0 +1,11 @@
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\Buecher_Verwaltung.exe
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\Buecher_Verwaltung.dll
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\Buecher_Verwaltung.deps.json
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\Buecher_Verwaltung.runtimeconfig.json
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\Buecher_Verwaltung.pdb
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\System.Configuration.ConfigurationManager.dll
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\System.Data.OleDb.dll
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\System.Diagnostics.PerformanceCounter.dll
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\System.Security.Cryptography.ProtectedData.dll
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\C# Kurs\Projekt Bücher\Buecher_Verwaltung\Buecher_Verwaltung\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll

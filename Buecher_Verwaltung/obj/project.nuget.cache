@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxh2yCPp3pKJthxi05qZs9zuTM+Meeaoe4VY5lleMzMIVEIv+U/HiBuHNYlgf5MeU1q6ilaN9+IU3P82Zib8cw==",
+  "success": true,
+  "projectFilePath": "C:\\C# Kurs\\Projekt Bücher\\Buecher_Verwaltung\\Buecher_Verwaltung\\Buecher_Verwaltung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pebbles\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pebbles\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pebbles\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pebbles\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
