@@ -7,7 +7,7 @@
 - Form 5 Quiz
 - Form 6 Buch Details
 
-Datenbank und den Bilder Ordner in temp speichern oder Pfad anpassen
+Datenbank (Buecher_verwaltung.accdb) und den Bilder Ordner in temp speichern oder Pfad anpassen
 ```
 con.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;" +
    "Data Source=C:\\temp\\Buecher_verwaltung.accdb";
